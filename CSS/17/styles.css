@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial;
+}
+
+h2{
+    font-weight: normal;
+    font-size: 40px;
+    font-family: "Comic Sans MS";
+
+}
+
+p{
+    font-size: 30px;
+    line-height: 1.5;
+    font-family: "Bookman Old Style";
+}
+
+p{
+    font: 13px/20px "Times New Roman";
+}
+
+p{
+    font: bold 40px Arial;
+}
+
+p{
+    font: italic bold 20px/40px Arial ;
+    text-indent: 50px;
+}
