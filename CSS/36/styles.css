@@ -1,0 +1,15 @@
+#elem h2{
+    color:green;
+}
+
+#elem2 .text{
+    color:green;
+}
+
+#elem3 p.text{
+    color: aqua;
+}
+
+#elem4 li.text{
+    color: blueviolet;
+}

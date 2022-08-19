@@ -1,0 +1,22 @@
+.success {
+    color: green;
+}
+.error {
+    color: red;
+}
+.large {
+    font-size: 30px;
+}
+.small {
+    font-size: 20px;
+}
+
+.underline{
+    text-decoration: underline;
+}
+.aqua{
+    color: aqua;
+}
+.big{
+    font-size: 60px;
+}

@@ -1,0 +1,86 @@
+/*div p{
+    color: red;
+    font-size: 60px;
+}*/
+
+/*div h2{
+    color: red;
+    font-size: 60px;
+}*/
+
+/*#block p{
+    color: red;
+    font-size: 60px;
+}*/
+
+/*#block h2{
+    color: red;
+    font-size: 60px;
+}*/
+
+/*.bbb{
+    color: red;
+    font-size: 60px;
+}*/
+
+/*#block .bbb{
+    color: red;
+    font-size: 60px;
+}*/
+
+/*p.bbb{
+    color: red;
+    font-size: 60px;
+}*/
+
+/*h2.bbb{
+    color: red;
+    font-size: 60px;
+}*/
+
+/*#block p.bbb{
+    color: red;
+    font-size: 60px;
+}*/
+
+/*
+.bbb, .xxx{
+    color: red;
+    font-size: 60px;
+}*/
+
+/*p.bbb, h2.xxx{
+    color: red;
+    font-size: 60px;
+}*/
+
+/*#block p.bbb, #block p.xxx{
+    color: red;
+    font-size: 60px;
+}*/
+
+/*.fff{
+    color: red;
+    font-size: 60px;
+}*/
+
+/*.fff p{
+    color: red;
+    font-size: 60px;
+}*/
+
+/*p.fff{
+    color: red;
+    font-size: 60px;
+}*/
+
+/*
+.fff .bbb{
+    color: red;
+    font-size: 60px;
+}*/
+
+.fff h2.bbb{
+    color: red;
+    font-size: 60px;
+}

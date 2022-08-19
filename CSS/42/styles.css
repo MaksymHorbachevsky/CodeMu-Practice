@@ -1,0 +1,7 @@
+#elem + li {
+    color:green;
+}
+.elem + li {
+    color: green;
+    font-size: 40px;
+}
