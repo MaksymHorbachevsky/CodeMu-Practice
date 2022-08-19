@@ -1,0 +1,8 @@
+ol > li:not([class="elem"]){
+    color: olive;
+}
+
+ul > li:not(:first-child, :last-child){
+    color: aqua;
+}
+

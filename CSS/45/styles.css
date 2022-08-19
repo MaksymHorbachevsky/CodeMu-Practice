@@ -1,0 +1,31 @@
+*[title]{
+    font-size: 46px;
+}
+
+p[title]{
+    color:aqua;
+}
+
+p[title="привет"]{
+    color:red;
+}
+
+a[href^="http://"]{
+    text-decoration: none;
+    color: purple;
+    font-size: 25px;
+}
+
+a[href$=".html"]{
+    text-decoration: line-through;
+    color: fuchsia;
+    font-size: 25px;
+}
+
+p[title*="привет"]{
+    color:green;
+}
+
+p[class^="top-"]{
+    text-decoration: overline;
+}
