@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+
+div{
+    margin-bottom: 10px;
+}
+
+.green{
+    width: 150px;
+    height: 150px;
+    color:black;
+    text-align: center;
+    border: 1px solid green;
+    border-radius: 15px;
+}
+
+.red{
+    width: 300px;
+    height: 100px;
+    color:black;
+    text-align: center;
+    background-color: red;
+    border-radius: 15px;
+}
+
+.orange{
+    width: 100px;
+    height: 100px;
+    color:black;
+    text-align: center;
+    background-color: orange;
+    border-radius: 15px;
+}
+
+.lightblue{
+    width: 100px;
+    height: 100px;
+    color:black;
+    text-align: center;
+    border: 2px double aqua;
+    border-radius: 50%;
+}
+
