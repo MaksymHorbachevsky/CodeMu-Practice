@@ -1,0 +1,11 @@
+div{
+    text-align: justify;
+}
+
+img{
+    float:left;
+}
+
+img:nth-of-type(2){
+    float: right;
+}

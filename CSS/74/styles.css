@@ -1,0 +1,16 @@
+.parent-1 {
+    padding: 10px 0;
+    border: 1px solid red;
+    text-align: center;
+}
+
+.parent-2{
+    padding: 10px 0;
+    border: 1px solid red;
+    text-align: right;
+    margin-top: 10px;
+}
+
+.parent-2 > a{
+    margin-right: 15px;
+}

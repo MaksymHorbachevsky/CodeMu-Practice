@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+
+.parent-1 {
+    display: flex;
+    width: 500px;
+    height: 200px;
+    border: 1px solid red;
+    margin: 0 auto;
+}
+.child-1 {
+    width: 70px;
+    height: 50px;
+    border: 1px solid green;
+}
+
+.parent-2 {
+    display: flex;
+    width: 500px;
+    border: 1px solid red;
+    margin: 15px auto;
+}
+.child-2 {
+    width: 70px;
+    height: 50px;
+    border: 1px solid green;
+}
+
+.parent-3 {
+    display: flex;
+    width: 500px;
+    border: 1px solid red;
+    margin: 15px auto;
+    padding: 15px;
+}
+.child-3 {
+    width: 70px;
+    height: 50px;
+    border: 1px solid green;
+    margin: 15px;
+}
