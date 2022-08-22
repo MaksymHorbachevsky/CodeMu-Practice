@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 100vw;
+    text-align: center;
+    padding: 10px;
+    background-color: #59884a;
+    color: white;
+    margin-bottom: 10px;
+}
+
+
+main{
+    margin: 0 auto;
+    border: 1px solid green;
+    padding: 25px 15px;
+    width: 400px;
+    text-align: justify;
+}
