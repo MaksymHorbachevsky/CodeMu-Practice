@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-weight: 500;
+}
+
+.wrapper{
+    margin-bottom: 30px;
+}
+
+.center{
+    width: 800px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.wrapper.line{
+    background-color: green;
+    color: white;
+}
+
+
+.center > h2{
+    font-weight: normal;
+    margin-bottom: 15px;
+}
+
+.center > p{
+    margin-bottom: 15px;
+    text-align: justify;
+    font: 16px/1.5 Arial;
+}
